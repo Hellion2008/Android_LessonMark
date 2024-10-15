@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android_LessonMark</string>
+    <string name="cm_change_color">Цветовое качество</string>
+    <string name="cm_exit">Выход из приложения</string>
 </resources>
